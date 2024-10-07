@@ -1,7 +1,7 @@
 # ctree.js
 
 <p align="center">
-  <img height="400" alt="Banner for ctree.js repo" src="https://github.com/user-attachments/assets/ecf52555-d30f-4219-8719-0bc51b61c930" />
+  <img height="400" alt="Banner for ctree.js repo" src="https://i.imgur.com/IkywicO.png" />
 </p>
  
 A lightweight JavaScript library that generates a festive, colored Christmas tree using ANSI escape codes for terminal output. 
