@@ -165,7 +165,7 @@ g/g=g=g=g=g=g=g=g=g=g=g=g=g=g=g=g=g=g\\
    * @returns {string} The string with colors applied to digits.
    */
   function applyColorsToLights(input) {
-    const regex = /(\d+)/g; // Matches one or more digits followed by 'O'
+    const regex = /(\d+)O?/g; // Matches one or more digits followed by optional 'O'
     return input.replace(regex, (match) => generateColor("O"));
   }
 
