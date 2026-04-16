@@ -34,7 +34,7 @@ export default function ctree() {
      * @returns {string} The ANSI reset code.
      */
     reset() {
-      return "\x1b[0m";
+      return "\x1b[39m"; // Resets foreground ONLY
     }
 
     /**
